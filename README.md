@@ -14,7 +14,7 @@
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (conclusão prevista 12/2026)
 - 💻 Construo aplicações full stack com **React, Node.js, PHP e bancos SQL/NoSQL**
 - 🚀 Venho de experiência real em ambiente corporativo (logística, operações e suporte técnico a IoT) — trago disciplina e senso de prazo para o código
-- 📬 Em busca de uma vaga de **estágio ou juníor em desenvolvimento** para crescer em um time de tecnologia
+🌱 Em evolução constante como dev, com foco em JS/TS e bancos relacionais/não relacionais
 
 ---
 
