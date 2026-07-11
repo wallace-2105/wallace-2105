@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Wallace 👋</h1>
+<h1 align="center">Olá, eu sou o Wallace </h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Full Stack em formação</h3>
 
 <p align="center">
@@ -14,7 +14,7 @@
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (conclusão prevista 12/2026)
 - 💻 Construo aplicações full stack com **React, Node.js, PHP e bancos SQL/NoSQL**
 - 🚀 Venho de experiência real em ambiente corporativo (logística, operações e suporte técnico a IoT) — trago disciplina e senso de prazo para o código
-- 📬 Em busca de uma vaga de **estágio em desenvolvimento** para crescer em um time de tecnologia
+- 📬 Em busca de uma vaga de **estágio ou juníor em desenvolvimento** para crescer em um time de tecnologia
 
 ---
 
