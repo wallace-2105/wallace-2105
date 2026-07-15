@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Wallace </h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Full Stack em formação</h3>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Full Stack</h3>
 
 <p align="center">
   <a href="https://stellar-portfolio.wallace-wcs83.workers.dev"><img src="https://img.shields.io/badge/Portfólio-1F3B57?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
