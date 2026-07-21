@@ -105,12 +105,16 @@ Desenvolvedor **Full Stack**, apaixonado por construir aplicações completas �
 
 ---
 
-## 💬 Frase aleatória
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
+### 🚀 Projetos em destaque
+ 
+| Projeto | Descrição | Link |
+|---|---|---|
+| 🆘 **HerSafe** | App de segurança pessoal com compartilhamento de localização em tempo real, botão de SOS e alertas para contatos de confiança | [código](https://github.com/wallace-2105/hersafe) |
+| 🏥 **Clínica Eliane Brait** | Formulário de agendamento com seleção de serviço/profissional que envia mensagem formatada direto ao WhatsApp da clínica | [código](https://github.com/wallace-2105/clinica-eliane-brait) |
+| 🛍️ **Wall Seventy** | E-commerce com carrinho de compras funcional e catálogo filtrado por categoria | [código](https://github.com/wallace-2105/wall-saventy) |
+| 📰 **Verifica Notícia** | Ferramenta de checagem de notícias com análise de links e integração de APIs | [código](https://github.com/wallace-2105/verifica-noticia) |
+| 🖨️ **Marques Makers 3D** | Loja virtual com catálogo de produtos e lógica de orçamentos | [código](https://github.com/wallace-2105/site-marques-makers-3D) |
+ 
 ---
 
 ## 📫 Contato
