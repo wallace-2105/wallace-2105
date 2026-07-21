@@ -121,7 +121,7 @@ Desenvolvedor **Full Stack**, apaixonado por construir aplicações completas �
 <p align="center">
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" /></a>
   <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.instagram.com/SEU-INSTAGRAM"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" /></a>
+ 
 </p>
 
 <p align="center">
