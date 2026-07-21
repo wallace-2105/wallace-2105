@@ -9,11 +9,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wallace-2105&color=00e5ff&style=flat-square&label=Visitantes" />
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/SEU-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="https://stellar-portfolio.wallace-wcs83.workers.dev"><img src="https://img.shields.io/badge/Portfólio-1F3B57?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/wallace-coimbra2105/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/5511948947933"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
-
 ---
 
 ## 👨‍💻 Sobre mim
