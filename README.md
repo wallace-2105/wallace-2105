@@ -101,7 +101,7 @@ Desenvolvedor **Full Stack**, apaixonado por construir aplicações completas �
   <img src="https://raw.githubusercontent.com/wallace-2105/wallace-2105/output/github-contribution-grid-snake.svg" />
 </p>
 
-> ⚙️ Essa animação não aparece sozinha — ela é gerada por uma GitHub Action que roda no seu próprio repositório de perfil (instruções que já te passei antes, arquivo `snake.yml`).
+
 
 ---
 
