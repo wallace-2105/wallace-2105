@@ -66,14 +66,13 @@ Desenvolvedor **Full Stack**, apaixonado por construir aplicações completas �
 | 🟨 JavaScript  | ██████████ | 🟩 Node.js    | ████████░░ | 🐘 PHP        | ███████░░░ |
 | 🎨 Tailwind CSS| ████████░░ | 🍃 MongoDB    | ███████░░░ | 🐬 MySQL      | ████████░░ |
 
-> 💡 Ajuste as barras acima pra refletir seu nível real em cada tecnologia.
+
 
 ---
 
 ## 🎯 Objetivos
 
 - Desenvolver aplicações full stack completas e escaláveis.
-- Conquistar minha primeira oportunidade como Desenvolvedor Full Stack.
 - Contribuir para projetos Open Source.
 - Evoluir continuamente como engenheiro de software.
 
