@@ -17,7 +17,7 @@
 </p>
 
 ---
-## 👨‍💻 Sobre mim
+## 👨‍💻 About me
 
 Desenvolvedor **Full Stack**, apaixonado por construir aplicações completas — do front-end ao banco de dados. Trabalho com **TypeScript**, **JavaScript**, **React** e **React Native** no front, e **Node.js**, **PHP** e **Java** no back-end.
 
