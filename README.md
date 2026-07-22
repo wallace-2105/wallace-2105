@@ -7,17 +7,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00E5FF&size=28&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full+Stack+%F0%9F%92%BB;TypeScript+%7C+React+%7C+Node.js;Do+front-end+ao+banco+de+dados;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wallace-2105&color=00e5ff&style=flat-square&label=Visitantes" />
-<a href="https://stellar-portfolio.wallace-wcs83.workers.dev"><img src="https://img.shields.io/badge/Portfólio-1F3B57?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/wallace-coimbra2105/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://wa.me/5511948947933"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
-
-
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor **Full Stack**, apaixonado por construir aplicações completas — do front-end ao banco de dados. Trabalho com **TypeScript**, **JavaScript**, **React** e **React Native** no front, e **Node.js**, **PHP** e **Java** no back-end. 
+Desenvolvedor **Full Stack**, apaixonado por construir aplicações completas — do front-end ao banco de dados. Trabalho com **TypeScript**, **JavaScript**, **React** e **React Native** no front, e **Node.js**, **PHP** e **Java** no back-end.
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (conclusão prevista 12/2026)
 - 💻 Construo aplicações full stack com **React, Node.js, PHP e bancos SQL/NoSQL**
@@ -65,8 +57,6 @@ Desenvolvedor **Full Stack**, apaixonado por construir aplicações completas �
 | 🟨 JavaScript  | ██████████ | 🟩 Node.js    | ████████░░ | 🐘 PHP        | ███████░░░ |
 | 🎨 Tailwind CSS| ████████░░ | 🍃 MongoDB    | ███████░░░ | 🐬 MySQL      | ████████░░ |
 
-
-
 ---
 
 ## 🎯 Objetivos
@@ -100,12 +90,10 @@ Desenvolvedor **Full Stack**, apaixonado por construir aplicações completas �
   <img src="https://raw.githubusercontent.com/wallace-2105/wallace-2105/output/github-contribution-grid-snake.svg" />
 </p>
 
-
-
 ---
 
 ### 🚀 Projetos em destaque
- 
+
 | Projeto | Descrição | Link |
 |---|---|---|
 | 🆘 **HerSafe** | App de segurança pessoal com compartilhamento de localização em tempo real, botão de SOS e alertas para contatos de confiança | [código](https://github.com/wallace-2105/hersafe) |
@@ -113,15 +101,34 @@ Desenvolvedor **Full Stack**, apaixonado por construir aplicações completas �
 | 🛍️ **Wall Seventy** | E-commerce com carrinho de compras funcional e catálogo filtrado por categoria | [código](https://github.com/wallace-2105/wall-saventy) |
 | 📰 **Verifica Notícia** | Ferramenta de checagem de notícias com análise de links e integração de APIs | [código](https://github.com/wallace-2105/verifica-noticia) |
 | 🖨️ **Marques Makers 3D** | Loja virtual com catálogo de produtos e lógica de orçamentos | [código](https://github.com/wallace-2105/site-marques-makers-3D) |
- 
+
 ---
 
-## 📫 Contato
+## 🌐 Veja meu portfólio
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" /></a>
- 
+  <a href="https://stellar-portfolio.wallace-wcs83.workers.dev">
+    <img src="https://img.shields.io/badge/Acessar%20Portfólio-1F3B57?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🤝 Conecte comigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/wallace-coimbra2105/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5511948947933?text=Hi%20Wallace!%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20get%20in%20touch.">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wallace-2105&color=00e5ff&style=flat-square&label=Visitantes" />
 </p>
 
 <p align="center">
