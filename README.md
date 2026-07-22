@@ -17,7 +17,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor **Full Stack**, apaixonado por construir aplicações completas — do front-end ao banco de dados. Trabalho com **TypeScript**, **JavaScript**, **React** e **React Native** no front, e **Node.js**, **PHP** e **Java** no back-end. Gosto de escrever código organizado, testado e fácil de manter.
+Desenvolvedor **Full Stack**, apaixonado por construir aplicações completas — do front-end ao banco de dados. Trabalho com **TypeScript**, **JavaScript**, **React** e **React Native** no front, e **Node.js**, **PHP** e **Java** no back-end. 
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (conclusão prevista 12/2026)
 - 💻 Construo aplicações full stack com **React, Node.js, PHP e bancos SQL/NoSQL**
