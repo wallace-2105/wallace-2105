@@ -6,7 +6,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00E5FF&size=28&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;TypeScript+%7C+React+%7C+Node.js;From+front-end+to+database;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+---
 
+## 🌐 Veja meu portfólio
+
+<p align="center">
+  <a href="https://stellar-portfolio.wallace-wcs83.workers.dev">
+    <img src="https://img.shields.io/badge/Acessar%20Portfólio-1F3B57?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+---
 ## 👨‍💻 Sobre mim
 
 Desenvolvedor **Full Stack**, apaixonado por construir aplicações completas — do front-end ao banco de dados. Trabalho com **TypeScript**, **JavaScript**, **React** e **React Native** no front, e **Node.js**, **PHP** e **Java** no back-end.
@@ -102,17 +112,7 @@ Desenvolvedor **Full Stack**, apaixonado por construir aplicações completas �
 | 📰 **Verifica Notícia** | Ferramenta de checagem de notícias com análise de links e integração de APIs | [código](https://github.com/wallace-2105/verifica-noticia) |
 | 🖨️ **Marques Makers 3D** | Loja virtual com catálogo de produtos e lógica de orçamentos | [código](https://github.com/wallace-2105/site-marques-makers-3D) |
 
----
 
-## 🌐 Veja meu portfólio
-
-<p align="center">
-  <a href="https://stellar-portfolio.wallace-wcs83.workers.dev">
-    <img src="https://img.shields.io/badge/Acessar%20Portfólio-1F3B57?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## 🤝 Conecte comigo
 
