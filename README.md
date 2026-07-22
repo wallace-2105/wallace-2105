@@ -94,7 +94,7 @@ Desenvolvedor **Full Stack**, apaixonado por construir aplicações completas �
 
 ---
 
-## 🐍 Minha atividade (animada)
+## 🐍 Minha atividade 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/wallace-2105/wallace-2105/output/github-contribution-grid-snake.svg" />
