@@ -72,9 +72,9 @@ Desenvolvedor **Full Stack**, apaixonado por construir aplicações completas �
 ## 🎯 Objetivos
 
 - Desenvolver aplicações full stack completas e escaláveis.
-- Contribuir para projetos Open Source.
-- Evoluir continuamente como engenheiro de software.
-
+- Contribuir com projetos Open Source relevantes, gerando impacto real para outros devs.
+- Evoluir de júnior a pleno/sênior, dominando arquitetura de software, boas práticas e design de sistemas.
+- Me tornar referência técnica em full stack, unindo front-end sólido a back-end robusto.
 ---
 
 ## 📊 GitHub Stats
