@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00E5FF&size=28&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full+Stack+%F0%9F%92%BB;TypeScript+%7C+React+%7C+Node.js;Do+front-end+ao+banco+de+dados;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
----
+
 
 ## 🌐 Veja meu portfólio
 
