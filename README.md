@@ -66,7 +66,7 @@ Desenvolvedor **Full Stack**, apaixonado por construir aplicações completas �
 | 🟦 TypeScript  | █████████░ | ⚛️ React      | █████████░ | 📱 React Native | ███████░░░ |
 | 🟨 JavaScript  | ██████████ | 🟩 Node.js    | ████████░░ | 🐘 PHP        | ███████░░░ |
 | 🎨 Tailwind CSS| ████████░░ | 🍃 MongoDB    | ███████░░░ | 🐬 MySQL      | ████████░░ |
-
+| 🐍 Python      | ███████░░░ | 🔷 C#         | █████░░░░░ | ☕ Java       | ███████░░░ |
 ---
 
 ## 🎯 Objetivos
