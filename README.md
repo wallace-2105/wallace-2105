@@ -127,12 +127,7 @@ Desenvolvedor **Full Stack**, apaixonado por construir aplicações completas �
   <img src="https://komarev.com/ghpvc/?username=wallace-2105&color=00e5ff&style=flat-square&label=Visitantes" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0072FF&height=100&section=footer" />
-</p>
-<div align="center">
-
-# ⚡ KAEN BLAZE ⚡
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+AI+%26+SaSS+Engineer;LLM+%26+RAG+Expert" height="70" />
