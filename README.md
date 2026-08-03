@@ -110,7 +110,7 @@ Desenvolvedor **Full Stack**, apaixonado por construir aplicações completas �
 
 
 ## 🤝 Conecte comigo
-´.´
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wallace-coimbra2105/">
