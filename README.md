@@ -112,7 +112,7 @@ Desenvolvedor **Full Stack**, apaixonado por construir aplicações completas �
 ## 🤝 Conecte comigo
 
 
-</p> align="center">
+
   <a href="https://www.linkedin.com/in/wallace-coimbra2105/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -122,7 +122,7 @@ Desenvolvedor **Full Stack**, apaixonado por construir aplicações completas �
 </p>
 
 ---
-<p> align="center">
+
   <img src="https://komarev.com/ghpvc/?username=wallace-2105&color=00e5ff&style=flat-square&label=Visitantes" />
 </p>
 
