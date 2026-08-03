@@ -122,7 +122,9 @@ Desenvolvedor **Full Stack**, apaixonado por construir aplicações completas �
 </p>
 
 ---
-
+<p> align="center">
+  <img src="https://komarev.com/ghpvc/?username=wallace-2105&color=00e5ff&style=flat-square&label=Visitantes" />
+</p>
 
 ---
 
