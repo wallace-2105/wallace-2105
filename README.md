@@ -107,8 +107,6 @@ Desenvolvedor **Full Stack**, apaixonado por construir aplicações completas �
 | 📰 **Verifica Notícia** | Ferramenta de checagem de notícias com análise de links e integração de APIs | [código](https://github.com/wallace-2105/verifica-noticia) |
 | 🖨️ **Marques Makers 3D** | Loja virtual com catálogo de produtos e lógica de orçamentos | [código](https://github.com/wallace-2105/site-marques-makers-3D) |
 
-
-
 ## 🤝 Conecte comigo
 
 <p align="center">
@@ -195,3 +193,5 @@ Desenvolvedor **Full Stack**, apaixonado por construir aplicações completas �
 </table>
 
 </div>
+
+
