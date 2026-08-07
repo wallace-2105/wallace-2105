@@ -101,12 +101,11 @@ Desenvolvedor **Full Stack**, apaixonado por construir aplicações completas �
 
 | Projeto | Descrição | Link |
 |---|---|---|
-| 🆘 **HerSafe** | App de segurança pessoal com compartilhamento de localização em tempo real, botão de SOS e alertas para contatos de confiança | [código](https://github.com/wallace-2105/hersafe) |
-| 🏥 **Clínica Eliane Brait** | Formulário de agendamento com seleção de serviço/profissional que envia mensagem formatada direto ao WhatsApp da clínica | [código](https://github.com/wallace-2105/clinica-eliane-brait) |
-| 🛍️ **Wall Seventy** | E-commerce com carrinho de compras funcional e catálogo filtrado por categoria | [código](https://github.com/wallace-2105/wall-saventy) |
-| 📰 **Verifica Notícia** | Ferramenta de checagem de notícias com análise de links e integração de APIs | [código](https://github.com/wallace-2105/verifica-noticia) |
-| 🖨️ **Marques Makers 3D** | Loja virtual com catálogo de produtos e lógica de orçamentos | [código](https://github.com/wallace-2105/site-marques-makers-3D) |
-
+| 🍔 **Chat Delivery AI** | Assistente de delivery conversacional que transforma linguagem natural em pedidos. React + TypeScript no front e arquitetura AWS serverless (Bedrock, Step Functions, Lambda, DynamoDB) no back | [código](https://github.com/wallace-2105/chat-delivery-ai) |
+| 💰 **Controle Financeiro** | Sistema de controle financeiro pessoal com dashboard, gráficos e categorização de receitas/despesas. Frontend em React + TypeScript, backend em ASP.NET Core | [código](https://github.com/wallace-2105/controle-financeiro) |
+| 👗 **Lume Store** | E-commerce premium de moda feminina com catálogo, carrinho e checkout via WhatsApp. React + TypeScript + Tailwind CSS + Framer Motion | [código](https://github.com/wallace-2105/lume-store) |
+| 📰 **Verifica Notícia** | Plataforma de verificação de fake news com IA (GPT-4o) — analisa textos ou URLs de notícias e retorna veredito, nível de confiança e fontes. Projeto acadêmico (TCC) | [código](https://github.com/wallace-2105/verifica-noticia) |
+| 🆘 **HerSafe** | App de segurança pessoal com botão de SOS de emergência, status de segurança compartilhado e rede de contatos de confiança. React Native + Expo | [código](https://github.com/wallace-2105/hersafe) |
 ## 🤝 Conecte comigo
 
 <p align="center">
