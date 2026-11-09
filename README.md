@@ -21,7 +21,7 @@
 
 **Analista de Operações**, apaixonado por construir aplicações completas — do front-end ao banco de dados. Trabalho com **TypeScript**, **JavaScript**, **React** e **React Native** no front, e **Node.js**, **PHP** e **Java** no back-end.
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (conclusão prevista 12/2026)
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (conclusão 12/2026)
 - 💻 Construo aplicações full stack com **React, Node.js, PHP e bancos SQL/NoSQL**
 - 🚀 Venho de experiência real em ambiente corporativo (logística, operações e suporte técnico a IoT) — trago disciplina e senso de prazo para o código
 - 🌱 Em evolução constante como dev, com foco em JS/TS e bancos relacionais/não relacionais
